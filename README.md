@@ -54,11 +54,11 @@ cd Facebook-Guess
 
 
 
-chmod +x facebook-guess
+chmod +x facebook-guess.pyc
 
 
 
-python3 facebook-guess
+python3 facebook-guess.pyc
 
 
 لست مسؤولاً عن سوء استخدامك لها
